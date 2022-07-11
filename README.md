@@ -1,5 +1,5 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://komarev.com/ghpvc/?username=Vanya9422&color=blue)
+![](https://komarev.com/ghpvc/?username=AvdalyanAnna&color=blue)
 
 ## About me.
 Hi, I am Anna Front-End Developer. I primarily focus on writing clean, elegant, and efficient code. I am proficient in HTML, CSS, JavaScript,jQuery,Vue(2,3 and Nuxt). I also review existing code and can consult with you on how to improve it. I have been Front-End for three years, of which i spent a year HTML coding(HTML,SCSS,jQuery) and two years Vue.js Development.
